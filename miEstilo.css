@@ -1,0 +1,21 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+#mi-contenido {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#restoreButton {
+    background-color: green;
+}
